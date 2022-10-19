@@ -1,0 +1,7 @@
+{
+  "name": "ias-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
